@@ -1,4 +1,5 @@
-Smart-City-YVR
+Smart-City-YVR:
+
 Smart City YVR is an innovative project leveraging data-driven methodologies to analyze and address critical aspects of urban living. Focusing on housing affordability, energy consumption, and transportation, this initiative utilizes advanced data analytics to derive actionable insights. The aim of this project is to use a data driven approach to address them. The goal is to identify areas of concerns, provide with data backed trends and concerns that might arise in future and give insights helping us understand. I aim to use the Big Data Technologies to process the Raw data into useful insights. I have taken up three major issues: Housing Affordability, Energy Consumption, Public Transport Connectivity Task and Technologies used: ETL, Analytics, Machine Learning: Python, Spark, Pandas Data Visualization: Matplotlib, Folium, NumPy
 
 Overview:
